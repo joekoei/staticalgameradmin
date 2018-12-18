@@ -1,2 +1,3 @@
-# staticalgameradmin
-Discord.js
+# StaticalGamer Project
+
+# Project with a friend
