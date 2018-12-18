@@ -5,3 +5,5 @@
 Discord.js bot
 
 # Discord server: https://discord.gg/vR26cz
+
+Join for your game stats
